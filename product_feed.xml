@@ -1,0 +1,106 @@
+<feed xmlns:g="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom">
+<entry>
+    <g:id>IPAPER-EN-EL-001</g:id>
+    <g:gtin>0000000004100</g:gtin>
+    <title>ENYA 4K UHD LED Television</title>
+    <g:title>ENYA 4K UHD LED Television</g:title>
+    <g:description>Watch 4K movies and TV shows at 4x the resolution of Full HD, and upscale your current HD content to gorgeous, Ultra HD-level picture quality.</g:description>
+    <g:link>https://ipaper.io</g:link>
+    <g:image_link>https://cdn.ipaper.io/assets/display/feed-images/IPAPER-EN-EL-001-00.png</g:image_link>
+    <g:availability>in stock</g:availability>
+    <g:expiration_date>YYYY-MM-DD</g:expiration_date>
+    <g:price>$0</g:price>
+    <g:sale_price> USD</g:sale_price>
+    <g:product_type>Electronics &amp; Computers</g:product_type>
+    <g:google_product_category>404</g:google_product_category>
+    <g:brand>Enya</g:brand>
+    <g:condition>New</g:condition>
+    <g:item_group_id>EL027</g:item_group_id>
+  </entry>
+  <entry>
+    <g:id>IPAPER-SO-CO-002</g:id>
+    <g:gtin>0000000003010</g:gtin>
+    <title>SoftCell Laptop GX-9900</title>
+    <g:title>SoftCell Laptop GX-9900</g:title>
+    <g:description>Slim, lightweight and ready to go. With its fast speed and an all-day battery life this skillfully designed laptop is a must own.</g:description>
+    <g:link>https://ipaper.io</g:link>
+    <g:image_link>https://cdn.ipaper.io/assets/display/feed-images/IPAPER-SO-CO-002.png</g:image_link>
+    <g:availability>in stock</g:availability>
+    <g:availability_date />
+    <g:expiration_date>YYYY-MM-DD</g:expiration_date>
+    <g:price>$635</g:price>
+    <g:sale_price>540</g:sale_price>
+    <g:product_type>Electronics &amp; Computers</g:product_type>
+    <g:google_product_category>328</g:google_product_category>
+    <g:brand>SoftCell</g:brand>
+    <g:condition>New</g:condition>
+    <g:color>grey/black</g:color>
+    <g:material>metal/plastic</g:material>
+    <g:item_group_id>EL025</g:item_group_id>
+  </entry>
+  <entry>
+    <g:id>IPAPER-TR-EL-001</g:id>
+    <g:gtin>0000000008100</g:gtin>
+    <title>Trebbo Noise Cancelling Headset</title>
+    <g:title>Trebbo Noise Cancelling Headset</g:title>
+    <g:description>With its dual noise cancelling aspect courtesy of an on-the-ear, ear pad feature, users can listen to their favorite sounds uninterrupted.</g:description>
+    <g:link>https://ipaper.io</g:link>
+    <g:image_link>https://cdn.ipaper.io/assets/display/feed-images/IPAPER-TR-EL-001-00.png</g:image_link>
+    <g:additional_image_link>https://cdn.ipaper.io/assets/display/feed-images/IPAPER-TR-EL-001-01.png</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:expiration_date>YYYY-MM-DD</g:expiration_date>
+    <g:price>$555</g:price>
+    <g:sale_price>179</g:sale_price>
+    <g:product_type>Electronics &amp; Computers</g:product_type>
+    <g:google_product_category>505771</g:google_product_category>
+    <g:brand>Trebbo</g:brand>
+    <g:condition>New</g:condition>
+    <g:color>black/brown</g:color>
+    <g:material>plastic/leather/aluminum</g:material>
+    <g:item_group_id>EL026</g:item_group_id>
+  </entry>
+ <entry>
+    <g:id>IPAPER-BO-EL-001</g:id>
+    <g:gtin>0000000005000</g:gtin>
+    <title>Borsso Wireless Portable Bluetooth Speaker</title>
+    <g:title>Borsso Wireless Portable Bluetooth Speaker</g:title>
+    <g:description>With the Borsso Bluetooth Speaker you are guaranteed a speaker that will blow out good sound in your home.</g:description>
+    <g:link>https://ipaper.io</g:link>
+    <g:image_link>https://cdn.ipaper.io/assets/display/feed-images/IPAPER-BO-EL-001-00.png</g:image_link>
+    <g:availability>in stock</g:availability>
+    <g:expiration_date>YYYY-MM-DD</g:expiration_date>
+    <g:price>$500</g:price>
+    <g:sale_price></g:sale_price>
+    <g:sale_price_effective_date />
+    <g:product_type>Electronics &amp; Computers</g:product_type>
+    <g:google_product_category>249</g:google_product_category>
+    <g:brand>Borsso</g:brand>
+    <g:condition>New</g:condition>
+    <g:color>grey/black</g:color>
+    <g:material>aluminum/plastic</g:material>
+    <g:item_group_id>EL007</g:item_group_id>
+  </entry>
+  <entry>
+    <g:id>IPAPER-BA-BA-001</g:id>
+    <g:gtin>0000000005000</g:gtin>
+    <title>Borsso Wireless Portable Bluetooth Speaker</title>
+    <g:title>Borsso Wireless Portable Bluetooth Speaker</g:title>
+    <g:description>With the Borsso Bluetooth Speaker you are guaranteed a speaker that will blow out good sound in your home.</g:description>
+    <g:link>https://ipaper.io</g:link>
+    <g:image_link>https://cdn.ipaper.io/assets/display/feed-images/IPAPER-BO-EL-001-00.png</g:image_link>
+    <g:availability>in stock</g:availability>
+    <g:expiration_date>YYYY-MM-DD</g:expiration_date>
+    <g:price>$600</g:price>
+    <g:sale_price></g:sale_price>
+    <g:sale_price_effective_date />
+    <g:product_type>Electronics &amp; Computers</g:product_type>
+    <g:google_product_category>249</g:google_product_category>
+    <g:brand>Borsso</g:brand>
+    <g:condition>New</g:condition>
+    <g:color>grey/black</g:color>
+    <g:material>aluminum/plastic</g:material>
+    <g:item_group_id>EL007</g:item_group_id>
+  </entry>
+  </feed>
+
+
